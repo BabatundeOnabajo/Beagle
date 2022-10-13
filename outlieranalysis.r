@@ -1,1 +1,1 @@
-
+# This R script helps us analyse potential outliers. The PHP script called phphandlerforstatistics.php uses the exec() function to call the R script and then sends this back to the browser extension via JSON, which the browser extension should hopefully be able to parse. 
